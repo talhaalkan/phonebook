@@ -19,5 +19,5 @@ provider "aws" {
 }
 
 provider "github" {
-  token = "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"
+  token = "...." # use parameter store for best practice
 }
